@@ -1,0 +1,27 @@
+.card-header1 {
+    margin-left: 10px;
+}
+.card-header2 {
+    margin-left: 8px;
+}
+.card-header3 {
+    margin-left: 8px;
+}
+.card-header1 strong {
+    margin-left: 220px;
+    display:inline-block;
+    justify-content: right;
+    font-weight: 500;
+}
+.card-header2 strong {
+    margin-left: 95px;
+    display:inline-block;
+    justify-content: right;
+    font-weight: 500;
+}
+.card-header3 strong {
+    margin-left: 275px;
+    display:inline-block;
+    justify-content: right;
+    font-weight: 500;
+}
